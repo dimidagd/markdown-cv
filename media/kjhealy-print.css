@@ -56,47 +56,56 @@ body {
 	font-size: 10pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: 'Roboto Mono', monospace;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
+/* Sets the indentation of job title and description */
+:root {
+    --left-position: 35%;
+	--golden-ratio: 1.618;
+}
+
+/* Job title position */
 p {
-	position: relative;
-	left: 28%;
-	margin-bottom: 0.2em;
-	margin-right: 0;
-	width: 70%;
+    position: relative;
+    left: var(--left-position);
+    margin-bottom: 0.2em;
+    margin-right: 0;
+    width: 70%;
 }
 
+/* Dates */
 code {
-	font: normal normal;
-	font-size: 60%;
-	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+    font: normal normal;
+    font-size: 80%;
+    /*line-height: 1em;*/
+    font-family: Menlo,monospace,sans-serif;
+    color: #ccc;
 }
-
+/* Dates position */
 p code {
-	position: absolute;
-	left: -11%;
+    position: absolute;
+    left: -20%;
 }
 
-
+/* List of stuff in a job */
 ul { 
-	position: relative;
-	left: 28%;
-	width: 65%;
+    position: relative;
+    left: var(--left-position);
+    width: 60%;
 	margin-bottom: 1em;
+	margin-left: calc(var(--golden-ratio) * 1.0em);
 	/*margin-top: -0.5em;*/
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "\2023 \0020";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -123,13 +132,14 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 28%;
+	left: var(--left-position);
+	margin-top: 1em; /* Add top margin */
 }
 
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
-	font-size: 110%;
+	font-size: 150%;
 }
 
 h2 {
@@ -165,10 +175,10 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 28%;
+	left: var(--left-position);;
 	color: #ccc;
 	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-size: 90%;
 }
 
 #webaddress a {
