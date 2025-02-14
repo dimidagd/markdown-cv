@@ -94,7 +94,7 @@ p code {
 ul { 
     position: relative;
     left: var(--left-position);
-    width: 60%;
+    width: 50%;
 	margin-bottom: 1em;
 	margin-left: calc(var(--golden-ratio) * 1.0em);
 	/*margin-top: -0.5em;*/
@@ -140,6 +140,7 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 150%;
+	width: 50%;
 }
 
 h2 {
