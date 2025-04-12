@@ -127,12 +127,13 @@ h1,h2,h3,h4 {
 	width: 65%;
 }
 
+
 h1 {
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: var(--left-position);
+	left: var(--left-position); /* name position */
 	margin-top: 1em; /* Add top margin */
 }
 
