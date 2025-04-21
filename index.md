@@ -1,91 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Dimitrios Dagdilelis's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dimitrios Dagdilelis
+ML/AI Engineer | Visual AI | MLOps
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:dimidagd@gmail.com">dimidagd@gmail.com</a>
+| <a href="https://www.linkedin.com/in/dimidagd">LinkedIn</a>
+| <a href="https://scholar.google.com/citations?hl=en&user=29wM-aMAAAAJ">Google Scholar</a>
+| <a href="https://dimidagd.github.io">dimidagd.github.io</a>
 </div>
 
+## Summary
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I’m a visual AI engineer passionate about empowering developers through better data tools and model transparency. I specialize in multimodal ML pipelines, model deployment, and visual dataset curation. I thrive in collaborative environments where engineering meets research, and I'm driven by impact, clarity, and community.
 
 
-### Research interests
+## Professional Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2024 – Present`  
+__Senior AI/MLOps Engineer__, Danish Defence, Copenhagen  
 
+- Led a data-centric AI strategy that developed an enterprise-grade ML product capable of processing world-scale data, deployed in high-stakes, real-world environments. 
+- Integrated and extended tooling for unstructured visual dataset debugging, curation, and quality control—contributed upstream to support multimodal extensions.  
+- Built reusable tooling to explore and annotate multimodal datasets, improving annotation efficiency and model performance.  
+- Scaled MLOps practices across teams—automated deployment, monitoring, and versioning of models across projects.  
+- Fostered internal knowledge-sharing by hosting weekly ML reading groups and cross-functional workshops.  
+- Architected self-supervised and active learning workflows, minimizing human labeling efforts and improving performance metrics on edge cases.
+
+
+`2020 – 2024`  
+__AI Engineer__, ShippingLab, Copenhagen  
+
+- Delivered real-time visual perception systems for autonomous maritime navigation, optimized for challenging and dynamic environments.
+- Led R&D on cutting-edge perception models, rapidly prototyping and iterating on both state-of-the-art and novel architectures to meet mission-specific requirements.
+- Owned the end-to-end lifecycle of perception ML models—driving data strategy, model development, optimization, validation, and deployment into the vessel platform.
+- Integrated simulation and real-world data pipelines to accelerate model evaluation and validation cycles, consistently delivering improved metrics on a weekly cadence.
+- Architected and deployed a cross-modal autolabeling pipeline (camera, LiDAR, radar), exploiting spatial-temporal alignment to generate high-fidelity annotations and significantly reducing manual labeling overhead.
+- Designed and scaled a robust MLOps stack, including a data lake, warehouse, model experiment tracking, validation pipelines, integration testing, and CI/CD.
+- Mentored junior researchers & S/W engineers in dataset analysis, model debugging, and reproducibility, fostering a culture of technical excellence and rapid learning.
+
+
+`2022`  
+__Visiting AI Research Engineer__, SeaAI, Vienna  
+
+- Built large-scale ML pipelines for maritime visual datasets.  
+- Prototyped a transition from 2D object detection to 3D spatial reasoning using depth-aware models.
+
+`2020 – 2024`  
+__PhD Research, Technical University of Denmark, Copenhagen  
+
+- Multimodal object tracking frameworks.
+- Sensor fusion for reliable perception and scene understanding.
+- Data fusion for GNSS denied navigation. 
+- Led large-scale data collection efforts; implemented pipelines for annotation, preprocessing, and synthetic data generation.  
+- International conferences publications and presentations.  
+- Leading junior researchers and s/w engineers, converting research prototypes into products.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020 – 2024`  
+__Technical University of Denmark__  
+PhD in Cyber-Resilient Data Fusion  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018 – 2020`  
+__Technical University of Denmark__  
+MSc in Automation & Robot Technology  
 
-- Sizar
+`2010 – 2016`  
+__Aristotle University of Thessaloniki__  
+Diploma in Electrical & Computer Engineering  
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Technical Skills
 
-- Fellow
+**Languages**: Python, SQL  
+**ML Frameworks**: PyTorch, TensorFlow
+**Cloud**: AWS, Google Cloud  
+**MLOps**: Docker, MLFlow, FastAPI, ClearML, Weights & Biases, Grafana  
+**Tooling**: FiftyOne, OpenCV, GDAL, Label Studio, CVAT
+**Data**: NoSQL (MongoDB), PostgreSQL, HBase  
+**Modalities**: images, video, text, point-clouds, radar
+**Collaboration**: Github, GitLab, JIRA, Confluence, Slack
 
+## Contact
 
+**Email**: dimidagd(at)gmail.com  
+**Phone**: +45 52 60 18 25  
+**Address**: Torvegade 34B, Copenhagen, Denmark  
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+<!-- Last updated: April 2025 -->
