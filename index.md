@@ -3,90 +3,81 @@ layout: cv
 title: Dimitrios Dagdilelis's CV
 ---
 # Dimitrios Dagdilelis
-ML/AI Engineer | Visual AI | MLOps
+AI/ML Research Engineer
 
 <div id="webaddress">
-<a href="mailto:dimidagd@gmail.com">dimidagd@gmail.com</a>
-| <a href="https://www.linkedin.com/in/dimidagd">LinkedIn</a>
-| <a href="https://scholar.google.com/citations?hl=en&user=29wM-aMAAAAJ">Google Scholar</a>
-| <a href="https://dimidagd.github.io">dimidagd.github.io</a>
+    <a href="mailto:dimidagd@gmail.com">dimidagd@gmail.com</a> | 
+    <a href="https://www.linkedin.com/in/dimitriosdagdilelis" target="_blank">LinkedIn</a> | 
+    <a href="https://scholar.google.com/citations?hl=en&user=29wM-aMAAAAJ" target="_blank">Google Scholar</a> | 
+    <a href="https://dimidagd.github.io" target="_blank">Website</a>
 </div>
 
-## Summary
+## Currently
 
-I’m a visual AI engineer passionate about empowering developers through better data tools and model transparency. I specialize in multimodal ML pipelines, model deployment, and visual dataset curation. I thrive in collaborative environments where engineering meets research, and I'm driven by impact, clarity, and community.
+I’m an AI engineer, passionate about transforming data into knowledge. Empowering ML teams by advocating MLOps best practices, developing better data tools and making models transparent. I design and deliver data products from concepts to production, keeping myself close to the data and involved in the entire ML product lifecycle. Five years of experience on using AI to develop autopilot systems and geospatial data analysis applications. 
 
+
+### Specialized in
+
+- Building scalable AI systems
+- Computer vision, 3D perception, and geospatial data
+- Multimodal Data Fusion
 
 ## Professional Experience
 
-`2024 – Present`  
-__Senior AI/MLOps Engineer__, Danish Defence, Copenhagen  
+`2024 - Present`
+__Senior AI & MLOps Enginer__, Danish Defence, Copenhagen, Denmark
 
-- Led a data-centric AI strategy that developed an enterprise-grade ML product capable of processing world-scale data, deployed in high-stakes, real-world environments. 
-- Integrated and extended tooling for unstructured visual dataset debugging, curation, and quality control—contributed upstream to support multimodal extensions.  
-- Built reusable tooling to explore and annotate multimodal datasets, improving annotation efficiency and model performance.  
-- Scaled MLOps practices across teams—automated deployment, monitoring, and versioning of models across projects.  
-- Fostered internal knowledge-sharing by hosting weekly ML reading groups and cross-functional workshops.  
-- Architected self-supervised and active learning workflows, minimizing human labeling efforts and improving performance metrics on edge cases.
+- Designed and put in production a computer vision agent, responsible for detecting objects of interest in geospatial image data, handling high-volume traffic efficiently.
+- Developed an auto-labeling framework, self-supervised learning, active learning, and domain adaptation to minimize label cost and maximize their utilization.
+- Developed explainable-AI features for the image processing API.
+- Designed and implemented end-to-end MLOps pipelines for automated data preprocessing, continuous model training & versioning, and drift monitoring in production.
+- Responsible for developing model evaluation tooling, as well as enhancing the robustness, generalization, and performance of deployed vision models.
+- Fostered internal knowledge-sharing by hosting weekly ML reading groups and cross-functional workshops. 
+- Work specifics under confidentiality; details provided upon request in a personal interview.
 
+`2020 - 2023`
+__AI/ML Research Engineer / ShippingLab & GreenHopper Project__, Denmark's Technical University, Copenhagen
 
-`2020 – 2024`  
-__AI Engineer__, ShippingLab, Copenhagen  
+- Led the development of a modular perception stack of an autopilot system, successfully delivering the data product despite disruptions caused by the pandemic ([preview-link](https://youtu.be/-U8SjiTo37w)).
+- Designed a transformer-based multi-modal fusion architecture for 3D scene understanding and target tracking, integrating camera, LiDAR, and radar inputs to enhance spatial perception and semantic reasoning. ([preview-link](https://www.youtube.com/watch?v=8h_lvCD6gCU)).
+- Developed the ML perception stack for Denmark’s first autonomous ferry operation ([preview-link](https://www.youtube.com/watch?v=3ldAIurDOso)).
+- Integrated automatic and semi-automatic data annotation processes, reducing manual labeling costs ([preview-link](https://youtu.be/TZas_vM9sgI)).
+- In communication with downstream product owners, identify edge cases where ML is failing, pinpointed training data availability issues, then design and execute real, as well as synthetically generated data collection campaigns that solve the performance issues.
 
-- Delivered real-time visual perception systems for autonomous maritime navigation, optimized for challenging and dynamic environments.
-- Led R&D on cutting-edge perception models, rapidly prototyping and iterating on both state-of-the-art and novel architectures to meet mission-specific requirements.
-- Owned the end-to-end lifecycle of perception ML models—driving data strategy, model development, optimization, validation, and deployment into the vessel platform.
-- Integrated simulation and real-world data pipelines to accelerate model evaluation and validation cycles, consistently delivering improved metrics on a weekly cadence.
-- Architected and deployed a cross-modal autolabeling pipeline (camera, LiDAR, radar), exploiting spatial-temporal alignment to generate high-fidelity annotations and significantly reducing manual labeling overhead.
-- Designed and scaled a robust MLOps stack, including a data lake, warehouse, model experiment tracking, validation pipelines, integration testing, and CI/CD.
-- Mentored junior researchers & S/W engineers in dataset analysis, model debugging, and reproducibility, fostering a culture of technical excellence and rapid learning.
+`2022`
+__Visiting AI Engineer__, SeaAI, Vienna
 
-
-`2022`  
-__Visiting AI Research Engineer__, SeaAI, Vienna  
-
-- Built large-scale ML pipelines for maritime visual datasets.  
-- Prototyped a transition from 2D object detection to 3D spatial reasoning using depth-aware models.
-
-`2020 – 2024`  
-__PhD Research, Technical University of Denmark, Copenhagen  
-
-- Multimodal object tracking frameworks.
-- Sensor fusion for reliable perception and scene understanding.
-- Data fusion for GNSS denied navigation. 
-- Led large-scale data collection efforts; implemented pipelines for annotation, preprocessing, and synthetic data generation.  
-- International conferences publications and presentations.  
-- Leading junior researchers and s/w engineers, converting research prototypes into products.
+- Proposed and implemented a solution to extend the product's 2D object detection capabilities into 3D object detection.
+- Collaborated remotely, asynchronously as well as in person with the AI team in Vienna.
+- Curated datasets, and developed data visualization tools across a large-scale NoSQL database.
 
 ## Education
 
-`2020 – 2024`  
-__Technical University of Denmark__  
-PhD in Cyber-Resilient Data Fusion  
+`2024`
+__PhD in Cyber-Resilient Data Fusion__, Technical University of Denmark
 
-`2018 – 2020`  
-__Technical University of Denmark__  
-MSc in Automation & Robot Technology  
+- Focus on multimodal data fusion, deep learning, and 3D computer vision. If curious, find my thesis [here](https://orbit.dtu.dk/files/388731705/Thesis_2_.pdf).
 
-`2010 – 2016`  
-__Aristotle University of Thessaloniki__  
-Diploma in Electrical & Computer Engineering  
+`2020`
+__MSc in Automation & Robot Technology__, Technical University of Denmark
+
+`2016`
+__Diploma in Electrical & Computer Engineering__, Aristotle University of Thessaloniki
+
 
 ## Technical Skills
 
-**Languages**: Python, SQL  
-**ML Frameworks**: PyTorch, TensorFlow
-**Cloud**: AWS, Google Cloud  
-**MLOps**: Docker, MLFlow, FastAPI, ClearML, Weights & Biases, Grafana  
-**Tooling**: FiftyOne, OpenCV, GDAL, Label Studio, CVAT
-**Data**: NoSQL (MongoDB), PostgreSQL, HBase  
-**Modalities**: images, video, text, point-clouds, radar
-**Collaboration**: Github, GitLab, JIRA, Confluence, Slack
+**Languages**: Python, SQL, Bash  
+**ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers  
+**Cloud**: AWS, Google Cloud
+**MLOps**: Docker, MLFlow, FastAPI, ClearML, Weights & Biases, Grafana, Airflow
+**Tooling**: FiftyOne, OpenCV, GDAL, Label Studio, CVAT, DVC, NumPy, Pandas  
+**Data**: PostgreSQL, MongoDB, HBase
+**Deployment & Serving**: FastAPI, TorchServe, ONNX  
+**Monitoring & Logging**: Prometheus, Grafana  
+**Experimentation**: Weights & Biases, MLFlow
+**Modalities**: images, video, text, point-clouds, radar, semantic maps  
+**Collaboration**: GitHub, GitLab, JIRA, Confluence, Slack
 
-## Contact
 
-**Email**: dimidagd(at)gmail.com  
-**Phone**: +45 52 60 18 25  
-**Address**: Torvegade 34B, Copenhagen, Denmark  
-
-<!-- Last updated: April 2025 -->
