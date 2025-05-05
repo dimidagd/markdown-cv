@@ -67,13 +67,13 @@ body {
 	--golden-ratio: 1.618;
 }
 
-/* Job title position */
+/* Summary */
 p {
     position: relative;
     left: var(--left-position);
     margin-bottom: 0.2em;
     margin-right: 0;
-    width: 65%;
+    width: 60%;
 }
 
 /* Dates */
@@ -94,7 +94,7 @@ p code {
 ul { 
     position: relative;
     left: var(--left-position);
-    width: 50%;
+    width: 55%;
 	margin-bottom: 1em;
 	margin-left: calc(var(--golden-ratio) * 1.0em);
 	/*margin-top: -0.5em;*/
@@ -135,13 +135,15 @@ h1 {
 	position: relative;
 	left: var(--left-position); /* name position */
 	margin-top: 1em; /* Add top margin */
+	margin-bottom: 0.5em; /* Add top margin */
 }
 
 h1+p { 
 	/*subtitle*/
 	font-style: italic;
+	font-weight: bold;
 	font-size: 150%;
-	width: 50%;
+	width: 60%;
 }
 
 h2 {
