@@ -63,7 +63,7 @@ body {
 
 /* Sets the indentation of job title and description */
 :root {
-    --left-position: 35%;
+    --left-position: 10%;
 	--golden-ratio: 1.618;
 }
 
@@ -73,7 +73,7 @@ p {
     left: var(--left-position);
     margin-bottom: 0.2em;
     margin-right: 0;
-    width: 60%;
+    width: 70%;
 }
 
 /* Dates */
@@ -87,16 +87,16 @@ code {
 /* Dates position */
 p code {
     position: absolute;
-    left: -20%;
+    left: -0%;
 }
 
 /* List of stuff in a job */
 ul { 
     position: relative;
     left: var(--left-position);
-    width: 55%;
+    width: 90%;
 	margin-bottom: 1em;
-	margin-left: calc(var(--golden-ratio) * 1.0em);
+	margin-left: calc(var(--golden-ratio) * 0.0em);
 	/*margin-top: -0.5em;*/
 }
 
@@ -150,10 +150,12 @@ h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 2em;
+	margin-bottom: 2em;
 	position: relative;
 	top: 1.2em;
-	text-align: right;
-	width: 18%;
+	left: var(--left-position);
+	text-align: left;
+	width: 28%;
 }
 
 
