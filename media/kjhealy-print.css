@@ -78,11 +78,10 @@ p {
 
 /* Dates */
 code {
-    font: normal normal;
-    font-size: 80%;
-    /*line-height: 1em;*/
-    font-family: Menlo,monospace,sans-serif;
-    color: #ccc;
+    font-weight: bold;
+    font-size: 95%;
+    font-family: Menlo, monospace, sans-serif;
+    color: #000;
 }
 /* Dates position */
 p code {
