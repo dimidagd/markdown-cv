@@ -149,9 +149,10 @@ h2 {
 	font-size: 1.1em;
 	color: #a00;
 	margin-top: 2em;
-	margin-bottom: 2em;
+	margin-bottom: 0em;
 	position: relative;
-	top: 1.2em;
+	top: -1.0em;
+	bottom: 0.0em;
 	left: var(--left-position);
 	text-align: left;
 	width: 28%;
