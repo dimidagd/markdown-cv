@@ -25,19 +25,8 @@ I’m an AI engineer, passionate about transforming data into knowledge. Empower
 
 ## Professional Experience
 
-`2024 - Present`
-__Senior AI & MLOps Enginer__, Danish Defence, Copenhagen, Denmark
-
-- Designed and put in production a computer vision agent, responsible for detecting objects of interest in geospatial image data, handling high-volume traffic efficiently.
-- Developed an auto-labeling framework, self-supervised learning, active learning, and domain adaptation to minimize label cost and maximize their utilization.
-- Developed explainable-AI features for the image processing API.
-- Designed and implemented end-to-end MLOps pipelines for automated data preprocessing, continuous model training & versioning, and drift monitoring in production.
-- Responsible for developing model evaluation tooling, as well as enhancing the robustness, generalization, and performance of deployed vision models.
-- Fostered internal knowledge-sharing by hosting weekly ML reading groups and cross-functional workshops. 
-- Work specifics under confidentiality; details provided upon request in a personal interview.
-
 `2020 - 2023`
-__AI/ML Research Engineer / ShippingLab & GreenHopper Project__, Denmark's Technical University, Copenhagen
+__AI/ML Research Engineer , ShippingLab, Copenhagen, Denmark
 
 - Led the development of a modular perception stack of an autopilot system, successfully delivering the data product despite disruptions caused by the pandemic ([preview-link](https://youtu.be/-U8SjiTo37w)).
 - Designed a transformer-based multi-modal fusion architecture for 3D scene understanding and target tracking, integrating camera, LiDAR, and radar inputs to enhance spatial perception and semantic reasoning. ([preview-link](https://www.youtube.com/watch?v=8h_lvCD6gCU)).
@@ -45,8 +34,22 @@ __AI/ML Research Engineer / ShippingLab & GreenHopper Project__, Denmark's Techn
 - Integrated automatic and semi-automatic data annotation processes, reducing manual labeling costs ([preview-link](https://youtu.be/TZas_vM9sgI)).
 - In communication with downstream product owners, identify edge cases where ML is failing, pinpointed training data availability issues, then design and execute real, as well as synthetically generated data collection campaigns that solve the performance issues.
 
+`2024 - Present`
+__Senior AI & MLOps Enginer__, National Danish Security Organization, Copenhagen, Denmark
+
+- Top-secret security cleared, authorized to handle classified information
+- Designed and put in production a computer vision agent, responsible for real-time object recognition in high-volume geospatial image data.
+- Implemented a visual search system by learning deep visual embeddings and enabling image-based retrieval across large-scale indexed datasets.
+- Contributed to retrieval-augmented generation (RAG) workflows by integrating image and metadata retrieval pipelines with downstream language models.
+- Developed an auto-labeling framework, self-supervised learning, active learning, and domain adaptation to minimize label cost and maximize their utilization.
+- Built explainable-AI features into the image processing API, aiding interpretability and supporting human-in-the-loop validation.
+- Designed and implemented end-to-end MLOps pipelines for automated data preprocessing, continuous model training & versioning, and drift monitoring in production.
+- Responsible for developing model evaluation tooling, as well as enhancing the robustness, generalization, and performance of deployed vision models.
+- Fostered internal knowledge-sharing by hosting weekly ML reading groups and cross-functional workshops. 
+- Work specifics under confidentiality; details provided upon request in a personal interview.
+
 `2022`
-__Visiting AI Engineer__, SeaAI, Vienna
+__Visiting AI Engineer__, SeaAI, Vienna, Austria
 
 - Proposed and implemented a solution to extend the product's 2D object detection capabilities into 3D object detection.
 - Collaborated remotely, asynchronously as well as in person with the AI team in Vienna.
@@ -68,16 +71,16 @@ __Diploma in Electrical & Computer Engineering__, Aristotle University of Thessa
 
 ## Technical Skills
 
-**Languages**: Python, SQL, Bash  
-**ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers  
-**Cloud**: AWS, Google Cloud
-**MLOps**: Docker, MLFlow, FastAPI, ClearML, Weights & Biases, Grafana, Airflow
-**Tooling**: FiftyOne, OpenCV, GDAL, Label Studio, CVAT, DVC, NumPy, Pandas  
-**Data**: PostgreSQL, MongoDB, HBase
-**Deployment & Serving**: FastAPI, TorchServe, ONNX  
-**Monitoring & Logging**: Prometheus, Grafana  
-**Experimentation**: Weights & Biases, MLFlow
-**Modalities**: images, video, text, point-clouds, radar, semantic maps  
-**Collaboration**: GitHub, GitLab, JIRA, Confluence, Slack
+- **Languages**: Python, SQL, Bash
+- **ML Frameworks**: PyTorch, TensorFlow, Scikit-learn, HuggingFace Transformers
+- **Cloud**: AWS, Google Cloud
+- **MLOps**: Docker, MLFlow, FastAPI, ClearML, Weights & Biases, Grafana, Airflow
+- **Tooling**: FiftyOne, OpenCV, GDAL, Label Studio, CVAT, DVC, NumPy, Pandas
+- **Data**: PostgreSQL, MongoDB, HBase
+- **Deployment & Serving**: FastAPI, TorchServe, ONNX
+- **Monitoring & Logging**: Prometheus, Grafana
+- **Experimentation**: Weights & Biases, MLFlow
+- **Modalities**: images, video, text, point-clouds, radar, semantic maps
+- **Collaboration**: GitHub, GitLab, JIRA, Confluence, Slack
 
 

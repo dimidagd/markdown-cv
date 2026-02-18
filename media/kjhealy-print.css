@@ -206,6 +206,25 @@ strong {
 	visibility: hidden;
 }
 
+/* Print pagination tuning for cleaner PDF page breaks */
+@page {
+	size: A4;
+	margin: 14mm 12mm;
+}
 
+h1,
+h2,
+h3 {
+	break-after: avoid-page;
+	page-break-after: avoid;
+}
 
+h2,
+h3,
+blockquote,
+pre,
+table {
+	break-inside: avoid-page;
+	page-break-inside: avoid;
+}
 
